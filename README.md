@@ -15,10 +15,10 @@
 ### 📦 Установка
 
 1. Склонировать репозиторий:
-   `git clone https://github.com/punchalaken/test-joka-joya.git`
+   `git clone https://github.com/punchalaken/test-Joka-joya.git`
 
 2. Перейти в директорию прокта:
-   `cd test-joka-joya`
+   `cd test-Joka-joya`
 
 3. Установите зависимости:
    `npm install
