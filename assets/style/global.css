@@ -1,0 +1,20 @@
+:root {
+  --header-height: 64px;
+  --header-bg: rgba(255, 255, 255, 0.9);
+  --header-container-width: calc(1440px - 32px);
+  --header-contacts-color: #5834a4;
+
+  --main-width: 1216px;
+
+  --footer-height-pc: 160px;
+  --footer-bg: #f269af;
+  --footer-number-color: #abec20;
+  --footer-color: #ffffff;
+
+  --hover-color: #0267ff;
+
+  --color-404: #aaacff;
+  --left-side-bg: #a66eff;
+
+  --letter-spacing: 0.03em;
+}
